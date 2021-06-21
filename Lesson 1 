@@ -1,0 +1,7 @@
+// chapter 4: Math Operations
+pragma solidity 0.8.5;
+
+contract ZombieFactory {
+
+    uint dnaDigits = 16;
+}
