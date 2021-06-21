@@ -1,7 +1,8 @@
-// chapter 4: Math Operations
+// Chapter 3
 pragma solidity 0.8.5;
 
 contract ZombieFactory {
 
     uint dnaDigits = 16;
+    uint dnaModulus = 10 ** dnaDigits;
 }
